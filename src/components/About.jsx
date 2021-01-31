@@ -15,7 +15,8 @@ export default function About()
               🏠 Burli<br/>
               💖 📚 🎨<br/>
               🎵 Pause<br/>
-              🎞️ Dil Bechara
+              🎞️ Dil Bechara<br/>
+              📝 <a  href="https://drive.google.com/file/d/1TGX5OWcvmLYYIkpLr9_8WhwSKXnV5K3B/view?usp=sharing">Resume</a>
 
               </div>
             </div>
