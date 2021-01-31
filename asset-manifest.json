@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.1c754eac.chunk.css",
+    "main.js": "/Profile/static/js/main.ff43b8c2.chunk.js",
+    "main.js.map": "/Profile/static/js/main.ff43b8c2.chunk.js.map",
+    "runtime-main.js": "/Profile/static/js/runtime-main.8b8c214a.js",
+    "runtime-main.js.map": "/Profile/static/js/runtime-main.8b8c214a.js.map",
+    "static/css/2.00144da2.chunk.css": "/Profile/static/css/2.00144da2.chunk.css",
+    "static/js/2.d9eb6a11.chunk.js": "/Profile/static/js/2.d9eb6a11.chunk.js",
+    "static/js/2.d9eb6a11.chunk.js.map": "/Profile/static/js/2.d9eb6a11.chunk.js.map",
+    "static/js/3.0b735922.chunk.js": "/Profile/static/js/3.0b735922.chunk.js",
+    "static/js/3.0b735922.chunk.js.map": "/Profile/static/js/3.0b735922.chunk.js.map",
+    "index.html": "/Profile/index.html",
+    "static/css/2.00144da2.chunk.css.map": "/Profile/static/css/2.00144da2.chunk.css.map",
+    "static/css/main.1c754eac.chunk.css.map": "/Profile/static/css/main.1c754eac.chunk.css.map",
+    "static/js/2.d9eb6a11.chunk.js.LICENSE.txt": "/Profile/static/js/2.d9eb6a11.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Profile/static/media/vaishali.a52b0840.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b8c214a.js",
+    "static/css/2.00144da2.chunk.css",
+    "static/js/2.d9eb6a11.chunk.js",
+    "static/css/main.1c754eac.chunk.css",
+    "static/js/main.ff43b8c2.chunk.js"
+  ]
+}
