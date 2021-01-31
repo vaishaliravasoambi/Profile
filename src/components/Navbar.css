@@ -1,0 +1,20 @@
+.hole{
+    font-family:fantasy;
+    font-size: 22px;   
+  }
+  .navbar-brand{
+      font-size: 50px !important;
+      color:#c3bae6 !important;
+      font-weight: 800;
+  }
+  
+  .button{
+  font-size: 23px;
+  }
+  .navbar a:hover{
+      color: blue;
+  }
+  .menu_active{
+    
+    border-bottom: 1px solid #565387;
+  }
